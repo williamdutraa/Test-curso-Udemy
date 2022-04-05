@@ -1,8 +1,10 @@
 
 #Git course 
 
-Testa para aprendizagem
+Teste para aprendizagem
 
-Saiba mais em [william dutra
+Saiba mais em william dutra
 
-Gostou do curso ? Continue se esforçando!]
+Gostou do curso ? Cotinue se esforçando!
+
+[https://www.linkedin.com/in/williamdutraa/]
