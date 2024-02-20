@@ -1,0 +1,1 @@
+w = open("arquivo2.txt", "w")
